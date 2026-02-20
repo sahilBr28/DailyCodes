@@ -27,15 +27,13 @@ class Solution {
         while(i != null && j != null){
             if(i.val >= j.val){
                 k.next = j;
-                k = k.next;
                 j = j.next;
             }
             else{ // i.val < j.val
                 k.next = i;
-                k = k.next;
-                
                 i = i.next;
             }
+            k = k.next;
         }
         if(i == null){
             k.next = j;
