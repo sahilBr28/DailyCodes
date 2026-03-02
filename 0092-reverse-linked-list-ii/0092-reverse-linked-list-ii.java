@@ -8,21 +8,61 @@
  * }
  */
 class Solution {
-    public ListNode reverseBetween(ListNode head, int left, int right) {
-        if(head==null || head.next == null) return head;
+    // public ListNode reverseBetween(ListNode head, int left, int right) {
+    //     if(head==null || head.next == null) return head;
+    //     ListNode dummy = new ListNode(-1);
+    //     dummy.next = head;
+    //     ListNode prev = dummy;
+    //     for(int i=1;i<left;i++){
+    //         prev = prev.next;
+    //     }
+    //     ListNode curr = prev.next;
+    //     for(int i=1;i<=right-left;i++){
+    //         ListNode temp = prev.next;
+    //         prev.next = curr.next;
+    //         curr.next = curr.next.next;
+    //         prev.next.next = temp;
+    //     }
+    //     return dummy.next;    
+    // }
+
+    //Method 2:
+    public ListNode reverse(ListNode head){
+        ListNode prev = null;
+        ListNode curr = head;
+        while(curr != null){
+            ListNode fwd = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = fwd;
+        }
+        return prev;
+    }
+    public ListNode reverseBetween(ListNode head, int left, int right){
         ListNode dummy = new ListNode(-1);
         dummy.next = head;
-        ListNode prev = dummy;
+        ListNode temp = dummy;
+
         for(int i=1;i<left;i++){
-            prev = prev.next;
+            temp = temp.next;
         }
-        ListNode curr = prev.next;
-        for(int i=1;i<=right-left;i++){
-            ListNode temp = prev.next;
-            prev.next = curr.next;
-            curr.next = curr.next.next;
-            prev.next.next = temp;
+        ListNode tail1 = temp;
+        ListNode head2 = temp.next;
+
+        for(int i=1;i<=right-left+1;i++){
+            temp = temp.next;
         }
-        return dummy.next;    
+        ListNode tail2 = temp;
+        ListNode head3 = temp.next;
+
+        tail1.next = null;
+        tail2.next = null;
+
+        reverse(head2);
+
+        tail1.next = tail2;
+        head2.next = head3;
+
+        return dummy.next;
     }
 }
