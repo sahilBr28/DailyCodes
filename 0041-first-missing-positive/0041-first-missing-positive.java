@@ -1,9 +1,6 @@
 class Solution {
     public int firstMissingPositive(int[] arr) {
         int n = arr.length;
-        // if(n==1 && arr[0]==1){
-        //     return 2;
-        // }
         int i = 0;
         while(i<n){
             int currIdx = arr[i]-1;
