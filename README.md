@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/sahilBr28/DailyCodes/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/sahilBr28/DailyCodes/tree/main/0231-power-of-two/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/sahilBr28/DailyCodes/tree/master/2396-strictly-palindromic-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sahilBr28/DailyCodes/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
@@ -70,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/sahilBr28/DailyCodes/tree/main/0016-3sum-closest/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/sahilBr28/DailyCodes/tree/main/0231-power-of-two/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/sahilBr28/DailyCodes/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
