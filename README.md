@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sahilBr28/DailyCodes/tree/main/0041-first-missing-positive/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/sahilBr28/DailyCodes/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sahilBr28/DailyCodes/tree/main/0141-linked-list-cycle/) | Easy |
+| [0242-valid-anagram](https://github.com/sahilBr28/DailyCodes/tree/main/0242-valid-anagram/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/sahilBr28/DailyCodes/tree/main/0016-3sum-closest/) | Medium |
+| [0242-valid-anagram](https://github.com/sahilBr28/DailyCodes/tree/main/0242-valid-anagram/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sahilBr28/DailyCodes/tree/main/0020-valid-parentheses/) | Easy |
+| [0242-valid-anagram](https://github.com/sahilBr28/DailyCodes/tree/main/0242-valid-anagram/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
