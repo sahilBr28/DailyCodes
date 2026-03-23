@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sahilBr28/DailyCodes/tree/main/0020-valid-parentheses/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0682-baseball-game](https://github.com/sahilBr28/DailyCodes/tree/main/0682-baseball-game/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/sahilBr28/DailyCodes/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sahilBr28/DailyCodes/tree/main/0020-valid-parentheses/) | Easy |
 | [0242-valid-anagram](https://github.com/sahilBr28/DailyCodes/tree/main/0242-valid-anagram/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/sahilBr28/DailyCodes/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
