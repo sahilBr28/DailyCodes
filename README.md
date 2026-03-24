@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sahilBr28/DailyCodes/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/sahilBr28/DailyCodes/tree/main/0231-power-of-two/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/sahilBr28/DailyCodes/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/sahilBr28/DailyCodes/tree/master/2396-strictly-palindromic-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sahilBr28/DailyCodes/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Linked List
@@ -103,8 +104,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sahilBr28/DailyCodes/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/sahilBr28/DailyCodes/tree/main/0242-valid-anagram/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/sahilBr28/DailyCodes/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/sahilBr28/DailyCodes/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/sahilBr28/DailyCodes/tree/main/0682-baseball-game/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/sahilBr28/DailyCodes/tree/main/1903-largest-odd-number-in-string/) | Easy |
 <!---LeetCode Topics End-->
