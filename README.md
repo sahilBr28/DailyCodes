@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/sahilBr28/DailyCodes/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1669-merge-in-between-linked-lists](https://github.com/sahilBr28/DailyCodes/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sahilBr28/DailyCodes/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/sahilBr28/DailyCodes/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sahilBr28/DailyCodes/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0682-baseball-game](https://github.com/sahilBr28/DailyCodes/tree/main/0682-baseball-game/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/sahilBr28/DailyCodes/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [2487-remove-nodes-from-linked-list](https://github.com/sahilBr28/DailyCodes/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/sahilBr28/DailyCodes/tree/main/0231-power-of-two/) | Easy |
+| [2487-remove-nodes-from-linked-list](https://github.com/sahilBr28/DailyCodes/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/sahilBr28/DailyCodes/tree/main/0014-longest-common-prefix/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/sahilBr28/DailyCodes/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 <!---LeetCode Topics End-->
