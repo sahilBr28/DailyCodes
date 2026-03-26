@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sahilBr28/DailyCodes/tree/main/0041-first-missing-positive/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/sahilBr28/DailyCodes/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sahilBr28/DailyCodes/tree/main/0141-linked-list-cycle/) | Easy |
+| [0205-isomorphic-strings](https://github.com/sahilBr28/DailyCodes/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/sahilBr28/DailyCodes/tree/main/0242-valid-anagram/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sahilBr28/DailyCodes/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/sahilBr28/DailyCodes/tree/main/0020-valid-parentheses/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/sahilBr28/DailyCodes/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0205-isomorphic-strings](https://github.com/sahilBr28/DailyCodes/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/sahilBr28/DailyCodes/tree/main/0242-valid-anagram/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/sahilBr28/DailyCodes/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/sahilBr28/DailyCodes/tree/main/1903-largest-odd-number-in-string/) | Easy |
