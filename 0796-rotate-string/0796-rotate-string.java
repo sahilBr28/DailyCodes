@@ -6,6 +6,6 @@ class Solution {
         if(n != m) return false;
         String ans = s + s;
         if(ans.contains(goal)) return true;
-        else return false;
+        return false;
     }
 }
