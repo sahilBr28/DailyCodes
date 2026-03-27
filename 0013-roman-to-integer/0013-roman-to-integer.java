@@ -15,12 +15,12 @@ class Solution {
         int n = s.length();
         int sum = 0;
         for(int i=0;i<n;i++){
-            char ch1 = s.charAt(i);
+            char ch = s.charAt(i);
 
-            if((i+1)<n && getVal(ch1) < getVal(s.charAt(i+1))){
-                sum = sum - getVal(ch1);
+            if((i+1)<n && getVal(ch) < getVal(s.charAt(i+1))){
+                sum = sum - getVal(ch);
             }else{
-                sum = sum + getVal(ch1);
+                sum = sum + getVal(ch);
             }
         }
         return sum;
