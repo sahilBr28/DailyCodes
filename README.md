@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sahilBr28/DailyCodes/tree/main/0013-roman-to-integer/) | Easy |
 | [0231-power-of-two](https://github.com/sahilBr28/DailyCodes/tree/main/0231-power-of-two/) | Easy |
 | [0292-nim-game](https://github.com/sahilBr28/DailyCodes/tree/main/0292-nim-game/) | Easy |
+| [0326-power-of-three](https://github.com/sahilBr28/DailyCodes/tree/main/0326-power-of-three/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/sahilBr28/DailyCodes/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/sahilBr28/DailyCodes/tree/master/2396-strictly-palindromic-number) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/sahilBr28/DailyCodes/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/sahilBr28/DailyCodes/tree/main/0326-power-of-three/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/sahilBr28/DailyCodes/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
