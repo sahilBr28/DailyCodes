@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/sahilBr28/DailyCodes/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sahilBr28/DailyCodes/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sahilBr28/DailyCodes/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/sahilBr28/DailyCodes/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sahilBr28/DailyCodes/tree/main/0016-3sum-closest/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sahilBr28/DailyCodes/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sahilBr28/DailyCodes/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/sahilBr28/DailyCodes/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahilBr28/DailyCodes/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/sahilBr28/DailyCodes/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sahilBr28/DailyCodes/tree/main/0041-first-missing-positive/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/sahilBr28/DailyCodes/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sahilBr28/DailyCodes/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0205-isomorphic-strings](https://github.com/sahilBr28/DailyCodes/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/sahilBr28/DailyCodes/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/sahilBr28/DailyCodes/tree/main/0451-sort-characters-by-frequency/) | Medium |
