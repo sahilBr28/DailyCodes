@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sahilBr28/DailyCodes/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sahilBr28/DailyCodes/tree/main/0013-roman-to-integer/) | Easy |
 | [0231-power-of-two](https://github.com/sahilBr28/DailyCodes/tree/main/0231-power-of-two/) | Easy |
+| [0292-nim-game](https://github.com/sahilBr28/DailyCodes/tree/main/0292-nim-game/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/sahilBr28/DailyCodes/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/sahilBr28/DailyCodes/tree/master/2396-strictly-palindromic-number) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/sahilBr28/DailyCodes/tree/main/0292-nim-game/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/sahilBr28/DailyCodes/tree/master/2396-strictly-palindromic-number) |
 ## Array
 | Problem Name | Difficulty |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sahilBr28/DailyCodes/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/sahilBr28/DailyCodes/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
