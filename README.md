@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sahilBr28/DailyCodes/tree/main/0016-3sum-closest/) | Medium |
 | [0041-first-missing-positive](https://github.com/sahilBr28/DailyCodes/tree/main/0041-first-missing-positive/) | Hard |
 | [0053-maximum-subarray](https://github.com/sahilBr28/DailyCodes/tree/main/0053-maximum-subarray/) | Medium |
+| [0136-single-number](https://github.com/sahilBr28/DailyCodes/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahilBr28/DailyCodes/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/sahilBr28/DailyCodes/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0682-baseball-game](https://github.com/sahilBr28/DailyCodes/tree/main/0682-baseball-game/) | Easy |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/sahilBr28/DailyCodes/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/sahilBr28/DailyCodes/tree/main/0231-power-of-two/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
