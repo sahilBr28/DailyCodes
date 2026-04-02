@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahilBr28/DailyCodes/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/sahilBr28/DailyCodes/tree/main/0169-majority-element/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/sahilBr28/DailyCodes/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/sahilBr28/DailyCodes/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0682-baseball-game](https://github.com/sahilBr28/DailyCodes/tree/main/0682-baseball-game/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sahilBr28/DailyCodes/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sahilBr28/DailyCodes/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sahilBr28/DailyCodes/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/sahilBr28/DailyCodes/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/sahilBr28/DailyCodes/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/sahilBr28/DailyCodes/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/sahilBr28/DailyCodes/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/sahilBr28/DailyCodes/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
