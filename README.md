@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sahilBr28/DailyCodes/tree/main/0041-first-missing-positive/) | Hard |
 | [0053-maximum-subarray](https://github.com/sahilBr28/DailyCodes/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/sahilBr28/DailyCodes/tree/main/0075-sort-colors/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0136-single-number](https://github.com/sahilBr28/DailyCodes/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahilBr28/DailyCodes/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/sahilBr28/DailyCodes/tree/main/0169-majority-element/) | Easy |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahilBr28/DailyCodes/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
