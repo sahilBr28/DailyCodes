@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sahilBr28/DailyCodes/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/sahilBr28/DailyCodes/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/sahilBr28/DailyCodes/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0136-single-number](https://github.com/sahilBr28/DailyCodes/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahilBr28/DailyCodes/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/sahilBr28/DailyCodes/tree/main/0162-find-peak-element/) | Medium |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sahilBr28/DailyCodes/tree/main/0020-valid-parentheses/) | Easy |
+| [0084-largest-rectangle-in-histogram](https://github.com/sahilBr28/DailyCodes/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0445-add-two-numbers-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sahilBr28/DailyCodes/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sahilBr28/DailyCodes/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/sahilBr28/DailyCodes/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sahilBr28/DailyCodes/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
