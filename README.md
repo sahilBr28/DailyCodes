@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahilBr28/DailyCodes/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/sahilBr28/DailyCodes/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahilBr28/DailyCodes/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/sahilBr28/DailyCodes/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/sahilBr28/DailyCodes/tree/main/0136-single-number/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/sahilBr28/DailyCodes/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/sahilBr28/DailyCodes/tree/main/0231-power-of-two/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -246,8 +248,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sahilBr28/DailyCodes/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/sahilBr28/DailyCodes/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sahilBr28/DailyCodes/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/sahilBr28/DailyCodes/tree/main/0222-count-complete-tree-nodes/) | Easy |
 <!---LeetCode Topics End-->
