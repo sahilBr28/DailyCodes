@@ -14,7 +14,6 @@ class Solution {
                 negativeNum += 2;
             }
         }
-        return ans
-        ;
+        return ans;
     }
 }
