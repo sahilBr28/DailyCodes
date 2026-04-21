@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sahilBr28/DailyCodes/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0682-baseball-game](https://github.com/sahilBr28/DailyCodes/tree/main/0682-baseball-game/) | Easy |
 | [0724-find-pivot-index](https://github.com/sahilBr28/DailyCodes/tree/main/0724-find-pivot-index/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/sahilBr28/DailyCodes/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sahilBr28/DailyCodes/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sahilBr28/DailyCodes/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sahilBr28/DailyCodes/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahilBr28/DailyCodes/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/sahilBr28/DailyCodes/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/sahilBr28/DailyCodes/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/sahilBr28/DailyCodes/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
