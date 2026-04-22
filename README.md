@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sahilBr28/DailyCodes/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sahilBr28/DailyCodes/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sahilBr28/DailyCodes/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/sahilBr28/DailyCodes/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/sahilBr28/DailyCodes/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/sahilBr28/DailyCodes/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sahilBr28/DailyCodes/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/sahilBr28/DailyCodes/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/sahilBr28/DailyCodes/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/sahilBr28/DailyCodes/tree/main/0014-longest-common-prefix/) | Easy |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/sahilBr28/DailyCodes/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
