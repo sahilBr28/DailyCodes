@@ -16,7 +16,6 @@ class Solution {
                 dash++;
             }
         }
-        int origin = Math.abs(left-right)+dash;
-        return origin;
+        return Math.abs(left-right)+dash;
     }
 }
