@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sahilBr28/DailyCodes/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/sahilBr28/DailyCodes/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sahilBr28/DailyCodes/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2833-furthest-point-from-origin](https://github.com/sahilBr28/DailyCodes/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sahilBr28/DailyCodes/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0229-majority-element-ii/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sahilBr28/DailyCodes/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [2833-furthest-point-from-origin](https://github.com/sahilBr28/DailyCodes/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
