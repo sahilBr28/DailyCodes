@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sahilBr28/DailyCodes/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0682-baseball-game](https://github.com/sahilBr28/DailyCodes/tree/main/0682-baseball-game/) | Easy |
 | [0724-find-pivot-index](https://github.com/sahilBr28/DailyCodes/tree/main/0724-find-pivot-index/) | Easy |
+| [0766-toeplitz-matrix](https://github.com/sahilBr28/DailyCodes/tree/main/0766-toeplitz-matrix/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/sahilBr28/DailyCodes/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sahilBr28/DailyCodes/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sahilBr28/DailyCodes/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
@@ -312,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sahilBr28/DailyCodes/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/sahilBr28/DailyCodes/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/sahilBr28/DailyCodes/tree/main/0226-invert-binary-tree/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0766-toeplitz-matrix](https://github.com/sahilBr28/DailyCodes/tree/main/0766-toeplitz-matrix/) | Easy |
 <!---LeetCode Topics End-->
