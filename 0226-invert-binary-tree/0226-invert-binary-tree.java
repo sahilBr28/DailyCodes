@@ -14,17 +14,14 @@
  * }
  */
 class Solution {
-    public void mirror(TreeNode root){
-        if(root==null) return;
+    public TreeNode invertTree(TreeNode root) {
+        if(root==null) return null;
         TreeNode temp = root.left;
         root.left = root.right;
         root.right = temp;
-        mirror(root.left);
-        mirror(root.right);
-    }
-    public TreeNode invertTree(TreeNode root) {
-        mirror(root);
+        invertTree(root.left);
+        invertTree(root.right);
+        
         return root;
-
     }
 }
