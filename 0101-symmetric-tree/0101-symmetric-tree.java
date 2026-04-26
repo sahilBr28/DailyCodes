@@ -20,6 +20,9 @@ class Solution {
         TreeNode temp = root.left;
         root.left = root.right;
         root.right = temp;
+
+        mirror(root.left);
+        mirror(root.right);
     }
 
     public boolean isSameTree(TreeNode p, TreeNode q) {
