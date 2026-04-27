@@ -2,6 +2,7 @@ class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
         int n = nums1.length;
         int m = nums2.length;
+
         Stack<Integer> st = new Stack<>();
         int[] nge = new int[m];
 
@@ -20,8 +21,6 @@ class Solution {
                 }
             }
         }
-
         return ans;
-        
     }
 }
