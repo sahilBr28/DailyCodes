@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sahilBr28/DailyCodes/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sahilBr28/DailyCodes/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sahilBr28/DailyCodes/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1929-concatenation-of-array](https://github.com/sahilBr28/DailyCodes/tree/main/1929-concatenation-of-array/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sahilBr28/DailyCodes/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sahilBr28/DailyCodes/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sahilBr28/DailyCodes/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/sahilBr28/DailyCodes/tree/main/0682-baseball-game/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sahilBr28/DailyCodes/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [1929-concatenation-of-array](https://github.com/sahilBr28/DailyCodes/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sahilBr28/DailyCodes/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
