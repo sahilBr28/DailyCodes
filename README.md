@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sahilBr28/DailyCodes/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sahilBr28/DailyCodes/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sahilBr28/DailyCodes/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [0538-convert-bst-to-greater-tree](https://github.com/sahilBr28/DailyCodes/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/sahilBr28/DailyCodes/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/sahilBr28/DailyCodes/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Doubly-Linked List
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sahilBr28/DailyCodes/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sahilBr28/DailyCodes/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sahilBr28/DailyCodes/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0538-convert-bst-to-greater-tree](https://github.com/sahilBr28/DailyCodes/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/sahilBr28/DailyCodes/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sahilBr28/DailyCodes/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/sahilBr28/DailyCodes/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sahilBr28/DailyCodes/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sahilBr28/DailyCodes/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sahilBr28/DailyCodes/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0538-convert-bst-to-greater-tree](https://github.com/sahilBr28/DailyCodes/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/sahilBr28/DailyCodes/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sahilBr28/DailyCodes/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/sahilBr28/DailyCodes/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sahilBr28/DailyCodes/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sahilBr28/DailyCodes/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0538-convert-bst-to-greater-tree](https://github.com/sahilBr28/DailyCodes/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sahilBr28/DailyCodes/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/sahilBr28/DailyCodes/tree/main/0938-range-sum-of-bst/) | Easy |
 <!---LeetCode Topics End-->
