@@ -1,30 +1,26 @@
-class Pair{
+class Triplet{
     long max;
     long min;
-    Pair(Long max, Long min){
+    boolean isBST;
+    Triplet(Long max, Long min, boolean isBST){
         this.max = max;
         this.min = min;
+        this.isBST = isBST;
     }
 }
 class Solution {
-    static boolean flag;
     public boolean isValidBST(TreeNode root) {
-        flag = true;
-        maxMin(root);
-        return flag;
-        
+        return maxMin(root).isBST;
     }
-    Pair maxMin(TreeNode root){
-        if(root==null) return new Pair(Long.MIN_VALUE, Long.MAX_VALUE);
-        Pair leftSubTree = maxMin(root.left);
-        Pair rightSubTree = maxMin(root.right);
+    Triplet maxMin(TreeNode root){
+        if(root==null) return new Triplet(Long.MIN_VALUE, Long.MAX_VALUE, true);
+        Triplet leftSubTree = maxMin(root.left);
+        Triplet rightSubTree = maxMin(root.right);
         Long val = (long) root.val;
         Long max = Math.max(val, Math.max(leftSubTree.max, rightSubTree.max));
         Long min = Math.min(val, Math.min(leftSubTree.min, rightSubTree.min));
-        if(leftSubTree.max >= val || rightSubTree.min <= val){
-            flag = false;
-        }
-        return new Pair(max, min);
+        boolean isBST = (leftSubTree.isBST && rightSubTree.isBST) && (leftSubTree.max < val && rightSubTree.min > val);
+        return new Triplet(max, min, isBST);
     }
 
 }
