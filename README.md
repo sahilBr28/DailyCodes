@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/sahilBr28/DailyCodes/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/sahilBr28/DailyCodes/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1306-jump-game-iii](https://github.com/sahilBr28/DailyCodes/tree/main/1306-jump-game-iii/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/sahilBr28/DailyCodes/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sahilBr28/DailyCodes/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahilBr28/DailyCodes/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/sahilBr28/DailyCodes/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/sahilBr28/DailyCodes/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/sahilBr28/DailyCodes/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sahilBr28/DailyCodes/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/sahilBr28/DailyCodes/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/sahilBr28/DailyCodes/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/sahilBr28/DailyCodes/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sahilBr28/DailyCodes/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/sahilBr28/DailyCodes/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/sahilBr28/DailyCodes/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -424,4 +428,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/sahilBr28/DailyCodes/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sahilBr28/DailyCodes/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/sahilBr28/DailyCodes/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/sahilBr28/DailyCodes/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 <!---LeetCode Topics End-->
