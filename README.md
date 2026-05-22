@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sahilBr28/DailyCodes/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/sahilBr28/DailyCodes/tree/main/0016-3sum-closest/) | Medium |
 | [0031-next-permutation](https://github.com/sahilBr28/DailyCodes/tree/main/0031-next-permutation/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/sahilBr28/DailyCodes/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/sahilBr28/DailyCodes/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/sahilBr28/DailyCodes/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/sahilBr28/DailyCodes/tree/main/0048-rotate-image/) | Medium |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sahilBr28/DailyCodes/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahilBr28/DailyCodes/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
