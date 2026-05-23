@@ -1,26 +1,30 @@
-class Triplet{
-    long max;
-    long min;
-    boolean isBST;
-    Triplet(Long max, Long min, boolean isBST){
-        this.max = max;
-        this.min = min;
-        this.isBST = isBST;
-    }
-}
 class Solution {
+    //Solved by Morris Traversal:
     public boolean isValidBST(TreeNode root) {
-        return maxMin(root).isBST;
+        TreeNode curr = root;
+        long prev = Long.MIN_VALUE;
+        while(curr != null){
+            if(curr.left != null){
+                TreeNode pred = curr.left;
+                while(pred.right != null && pred.right != curr){
+                    pred = pred.right;
+                }
+                if(pred.right == null){
+                    pred.right = curr;
+                    curr = curr.left;
+                }else{
+                    pred.right = null;
+                    if(curr.val <= prev) return false;
+                    prev = curr.val;
+                    curr = curr.right;
+                }
+            }
+            else{
+                if(curr.val <= prev) return false;
+                prev = curr.val;
+                curr = curr.right;
+            }
+        }
+        return true; 
     }
-    Triplet maxMin(TreeNode root){
-        if(root==null) return new Triplet(Long.MIN_VALUE, Long.MAX_VALUE, true);
-        Triplet leftSubTree = maxMin(root.left);
-        Triplet rightSubTree = maxMin(root.right);
-        Long val = (long) root.val;
-        Long max = Math.max(val, Math.max(leftSubTree.max, rightSubTree.max));
-        Long min = Math.min(val, Math.min(leftSubTree.min, rightSubTree.min));
-        boolean isBST = (leftSubTree.isBST && rightSubTree.isBST) && (leftSubTree.max < val && rightSubTree.min > val);
-        return new Triplet(max, min, isBST);
-    }
-
 }
