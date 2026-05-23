@@ -11,11 +11,8 @@ class Solution {
                 pred.right = curr.right;
                 curr.right = curr.left;
                 curr.left = null;
-                curr = curr.right;
             }
-            else{
-                curr = curr.right;
-            }
+            curr = curr.right;
         }
     }
 }
