@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/sahilBr28/DailyCodes/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sahilBr28/DailyCodes/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/sahilBr28/DailyCodes/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/sahilBr28/DailyCodes/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/sahilBr28/DailyCodes/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sahilBr28/DailyCodes/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sahilBr28/DailyCodes/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/sahilBr28/DailyCodes/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [3005-count-elements-with-maximum-frequency](https://github.com/sahilBr28/DailyCodes/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/sahilBr28/DailyCodes/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0229-majority-element-ii/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sahilBr28/DailyCodes/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/sahilBr28/DailyCodes/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/sahilBr28/DailyCodes/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
