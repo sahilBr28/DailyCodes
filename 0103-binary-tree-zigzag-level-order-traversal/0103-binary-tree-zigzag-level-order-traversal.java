@@ -13,7 +13,6 @@ class Solution {
             for(int i=0;i<size;i++){
                 TreeNode front = q.poll();
                 
-                
                 int index = leftToRight ? i : size-i-1;
                 temp[index] = front.val;
 
