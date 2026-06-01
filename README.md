@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sahilBr28/DailyCodes/tree/main/0205-isomorphic-strings/) | Easy |
 | [0229-majority-element-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/sahilBr28/DailyCodes/tree/main/0242-valid-anagram/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sahilBr28/DailyCodes/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sahilBr28/DailyCodes/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sahilBr28/DailyCodes/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/sahilBr28/DailyCodes/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sahilBr28/DailyCodes/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/sahilBr28/DailyCodes/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/sahilBr28/DailyCodes/tree/main/0242-valid-anagram/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sahilBr28/DailyCodes/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sahilBr28/DailyCodes/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0796-rotate-string](https://github.com/sahilBr28/DailyCodes/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/sahilBr28/DailyCodes/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -452,4 +454,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahilBr28/DailyCodes/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sahilBr28/DailyCodes/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 <!---LeetCode Topics End-->
