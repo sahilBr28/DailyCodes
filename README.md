@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sahilBr28/DailyCodes/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sahilBr28/DailyCodes/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sahilBr28/DailyCodes/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/sahilBr28/DailyCodes/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sahilBr28/DailyCodes/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/sahilBr28/DailyCodes/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sahilBr28/DailyCodes/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sahilBr28/DailyCodes/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sahilBr28/DailyCodes/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/sahilBr28/DailyCodes/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/sahilBr28/DailyCodes/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sahilBr28/DailyCodes/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/sahilBr28/DailyCodes/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Stack
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/sahilBr28/DailyCodes/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/sahilBr28/DailyCodes/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/sahilBr28/DailyCodes/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sahilBr28/DailyCodes/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0229-majority-element-ii/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sahilBr28/DailyCodes/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/sahilBr28/DailyCodes/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/sahilBr28/DailyCodes/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sahilBr28/DailyCodes/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Game Theory
