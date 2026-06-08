@@ -14,7 +14,7 @@ class Solution {
             }
             maxHeap.add(ans);
         }
-        if(maxHeap.size()==0){
+        if(maxHeap.isEmpty()){
             return 0;
         }
         return maxHeap.peek();
