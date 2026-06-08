@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/sahilBr28/DailyCodes/tree/main/0735-asteroid-collision/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/sahilBr28/DailyCodes/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/sahilBr28/DailyCodes/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1046-last-stone-weight](https://github.com/sahilBr28/DailyCodes/tree/main/1046-last-stone-weight/) | Easy |
 | [1306-jump-game-iii](https://github.com/sahilBr28/DailyCodes/tree/main/1306-jump-game-iii/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/sahilBr28/DailyCodes/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sahilBr28/DailyCodes/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilBr28/DailyCodes/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sahilBr28/DailyCodes/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1046-last-stone-weight](https://github.com/sahilBr28/DailyCodes/tree/main/1046-last-stone-weight/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
