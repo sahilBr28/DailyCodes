@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/sahilBr28/DailyCodes/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/sahilBr28/DailyCodes/tree/main/0326-power-of-three/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/sahilBr28/DailyCodes/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sahilBr28/DailyCodes/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/sahilBr28/DailyCodes/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/sahilBr28/DailyCodes/tree/master/2396-strictly-palindromic-number) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/sahilBr28/DailyCodes/tree/main/0735-asteroid-collision/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/sahilBr28/DailyCodes/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/sahilBr28/DailyCodes/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/sahilBr28/DailyCodes/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/sahilBr28/DailyCodes/tree/main/1046-last-stone-weight/) | Easy |
 | [1306-jump-game-iii](https://github.com/sahilBr28/DailyCodes/tree/main/1306-jump-game-iii/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/sahilBr28/DailyCodes/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/sahilBr28/DailyCodes/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/sahilBr28/DailyCodes/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/sahilBr28/DailyCodes/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sahilBr28/DailyCodes/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/sahilBr28/DailyCodes/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/sahilBr28/DailyCodes/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilBr28/DailyCodes/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/sahilBr28/DailyCodes/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -338,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilBr28/DailyCodes/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sahilBr28/DailyCodes/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/sahilBr28/DailyCodes/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/sahilBr28/DailyCodes/tree/main/1046-last-stone-weight/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -475,4 +480,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilBr28/DailyCodes/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/sahilBr28/DailyCodes/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sahilBr28/DailyCodes/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
