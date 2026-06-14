@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sahilBr28/DailyCodes/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/sahilBr28/DailyCodes/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/sahilBr28/DailyCodes/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/sahilBr28/DailyCodes/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sahilBr28/DailyCodes/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sahilBr28/DailyCodes/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sahilBr28/DailyCodes/tree/main/0205-isomorphic-strings/) | Easy |
 | [0229-majority-element-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/sahilBr28/DailyCodes/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/sahilBr28/DailyCodes/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sahilBr28/DailyCodes/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sahilBr28/DailyCodes/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sahilBr28/DailyCodes/tree/main/0496-next-greater-element-i/) | Easy |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilBr28/DailyCodes/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/sahilBr28/DailyCodes/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/sahilBr28/DailyCodes/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sahilBr28/DailyCodes/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/sahilBr28/DailyCodes/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sahilBr28/DailyCodes/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/sahilBr28/DailyCodes/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/sahilBr28/DailyCodes/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilBr28/DailyCodes/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/sahilBr28/DailyCodes/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/sahilBr28/DailyCodes/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -341,18 +345,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilBr28/DailyCodes/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/sahilBr28/DailyCodes/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sahilBr28/DailyCodes/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/sahilBr28/DailyCodes/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/sahilBr28/DailyCodes/tree/main/1046-last-stone-weight/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sahilBr28/DailyCodes/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sahilBr28/DailyCodes/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/sahilBr28/DailyCodes/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0229-majority-element-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/sahilBr28/DailyCodes/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sahilBr28/DailyCodes/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sahilBr28/DailyCodes/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/sahilBr28/DailyCodes/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -480,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilBr28/DailyCodes/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/sahilBr28/DailyCodes/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/sahilBr28/DailyCodes/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
