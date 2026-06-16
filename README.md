@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/sahilBr28/DailyCodes/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sahilBr28/DailyCodes/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/sahilBr28/DailyCodes/tree/main/0938-range-sum-of-bst/) | Easy |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/sahilBr28/DailyCodes/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sahilBr28/DailyCodes/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/sahilBr28/DailyCodes/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sahilBr28/DailyCodes/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/sahilBr28/DailyCodes/tree/main/0938-range-sum-of-bst/) | Easy |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/sahilBr28/DailyCodes/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sahilBr28/DailyCodes/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/sahilBr28/DailyCodes/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/sahilBr28/DailyCodes/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sahilBr28/DailyCodes/tree/main/0226-invert-binary-tree/) | Easy |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/sahilBr28/DailyCodes/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1306-jump-game-iii](https://github.com/sahilBr28/DailyCodes/tree/main/1306-jump-game-iii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
