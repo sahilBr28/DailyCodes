@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sahilBr28/DailyCodes/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sahilBr28/DailyCodes/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/sahilBr28/DailyCodes/tree/main/0048-rotate-image/) | Medium |
+| [0062-unique-paths](https://github.com/sahilBr28/DailyCodes/tree/main/0062-unique-paths/) | Medium |
 | [0231-power-of-two](https://github.com/sahilBr28/DailyCodes/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/sahilBr28/DailyCodes/tree/main/0258-add-digits/) | Easy |
 | [0292-nim-game](https://github.com/sahilBr28/DailyCodes/tree/main/0292-nim-game/) | Easy |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/sahilBr28/DailyCodes/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/sahilBr28/DailyCodes/tree/main/0053-maximum-subarray/) | Medium |
+| [0062-unique-paths](https://github.com/sahilBr28/DailyCodes/tree/main/0062-unique-paths/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahilBr28/DailyCodes/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/sahilBr28/DailyCodes/tree/main/0198-house-robber/) | Medium |
 | [0509-fibonacci-number](https://github.com/sahilBr28/DailyCodes/tree/main/0509-fibonacci-number/) | Easy |
@@ -515,4 +517,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/sahilBr28/DailyCodes/tree/main/0509-fibonacci-number/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/sahilBr28/DailyCodes/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
