@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/sahilBr28/DailyCodes/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/sahilBr28/DailyCodes/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/sahilBr28/DailyCodes/tree/main/1046-last-stone-weight/) | Easy |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/sahilBr28/DailyCodes/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1306-jump-game-iii](https://github.com/sahilBr28/DailyCodes/tree/main/1306-jump-game-iii/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/sahilBr28/DailyCodes/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sahilBr28/DailyCodes/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/sahilBr28/DailyCodes/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/sahilBr28/DailyCodes/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/sahilBr28/DailyCodes/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/sahilBr28/DailyCodes/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sahilBr28/DailyCodes/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sahilBr28/DailyCodes/tree/main/0048-rotate-image/) | Medium |
 | [0064-minimum-path-sum](https://github.com/sahilBr28/DailyCodes/tree/main/0064-minimum-path-sum/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/sahilBr28/DailyCodes/tree/main/0766-toeplitz-matrix/) | Easy |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/sahilBr28/DailyCodes/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
