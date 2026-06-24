@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sahilBr28/DailyCodes/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/sahilBr28/DailyCodes/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/sahilBr28/DailyCodes/tree/main/0062-unique-paths/) | Medium |
+| [0189-rotate-array](https://github.com/sahilBr28/DailyCodes/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/sahilBr28/DailyCodes/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/sahilBr28/DailyCodes/tree/main/0258-add-digits/) | Easy |
 | [0292-nim-game](https://github.com/sahilBr28/DailyCodes/tree/main/0292-nim-game/) | Easy |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/sahilBr28/DailyCodes/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/sahilBr28/DailyCodes/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahilBr28/DailyCodes/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/sahilBr28/DailyCodes/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/sahilBr28/DailyCodes/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/sahilBr28/DailyCodes/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/sahilBr28/DailyCodes/tree/main/0295-find-median-from-data-stream/) | Hard |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sahilBr28/DailyCodes/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahilBr28/DailyCodes/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/sahilBr28/DailyCodes/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/sahilBr28/DailyCodes/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/sahilBr28/DailyCodes/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sahilBr28/DailyCodes/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0213-house-robber-ii/) | Medium |
