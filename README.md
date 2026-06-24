@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sahilBr28/DailyCodes/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sahilBr28/DailyCodes/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0665-non-decreasing-array](https://github.com/sahilBr28/DailyCodes/tree/main/0665-non-decreasing-array/) | Medium |
 | [0682-baseball-game](https://github.com/sahilBr28/DailyCodes/tree/main/0682-baseball-game/) | Easy |
 | [0724-find-pivot-index](https://github.com/sahilBr28/DailyCodes/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/sahilBr28/DailyCodes/tree/main/0735-asteroid-collision/) | Medium |
