@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/sahilBr28/DailyCodes/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/sahilBr28/DailyCodes/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/sahilBr28/DailyCodes/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/sahilBr28/DailyCodes/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/sahilBr28/DailyCodes/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/sahilBr28/DailyCodes/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0088-merge-sorted-array](https://github.com/sahilBr28/DailyCodes/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sahilBr28/DailyCodes/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sahilBr28/DailyCodes/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sahilBr28/DailyCodes/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sahilBr28/DailyCodes/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/sahilBr28/DailyCodes/tree/main/0016-3sum-closest/) | Medium |
 | [0075-sort-colors](https://github.com/sahilBr28/DailyCodes/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/sahilBr28/DailyCodes/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/sahilBr28/DailyCodes/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/sahilBr28/DailyCodes/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilBr28/DailyCodes/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
