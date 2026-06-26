@@ -4,11 +4,20 @@ class Solution {
         int[] arr = new int[n];
         
         int i = 0;
-        while(i<n){
-            arr[i] = nums[i] * nums[i];
-            i++;
+        int j = n-1;
+        int k = arr.length-1;
+        while(i<=j){
+            int left = nums[i] * nums[i];
+            int right = nums[j] * nums[j];
+            if(left<right){
+                arr[k] = right;
+                j--;
+            }else{ //left>right
+                arr[k] = left;
+                i++;
+            }
+            k--;
         }
-        Arrays.sort(arr);
         return arr;
     }
 }
