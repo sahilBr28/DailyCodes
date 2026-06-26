@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sahilBr28/DailyCodes/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/sahilBr28/DailyCodes/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/sahilBr28/DailyCodes/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/sahilBr28/DailyCodes/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sahilBr28/DailyCodes/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sahilBr28/DailyCodes/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/sahilBr28/DailyCodes/tree/master/2396-strictly-palindromic-number) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/sahilBr28/DailyCodes/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/sahilBr28/DailyCodes/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/sahilBr28/DailyCodes/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/sahilBr28/DailyCodes/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1046-last-stone-weight](https://github.com/sahilBr28/DailyCodes/tree/main/1046-last-stone-weight/) | Easy |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sahilBr28/DailyCodes/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1306-jump-game-iii](https://github.com/sahilBr28/DailyCodes/tree/main/1306-jump-game-iii/) | Medium |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sahilBr28/DailyCodes/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sahilBr28/DailyCodes/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/sahilBr28/DailyCodes/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/sahilBr28/DailyCodes/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sahilBr28/DailyCodes/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
