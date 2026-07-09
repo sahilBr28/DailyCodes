@@ -1,8 +1,7 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        int i = 0;
-        int j = s.length() - 1;
-        while(i<j){
+        int i = 0, j = s.length()-1;
+        while (i<j){
             char left = s.charAt(i);
             char right = s.charAt(j);
 
