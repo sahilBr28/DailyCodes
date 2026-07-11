@@ -1,46 +1,40 @@
 class Solution {
-    List<List<Integer>> ans;
-    
-    void twoSum(int[] nums, int target, int i, int j){
-        while(i < j){
-            if(nums[i] + nums[j] > target){
-                j--;
-            }
-            else if(nums[i] + nums[j] < target){
-                i++;
-            }
-            else{
-                while(i<j && nums[i]==nums[i+1]) i++;
-                while(i<j && nums[j]==nums[j-1]) j--;
+    public void twoSumHelper(int fixed, int[] nums, List<List<Integer>> result){
+        int i = fixed+1;
+        int j = nums.length-1;
 
-                ans.add(Arrays.asList(-target, nums[i], nums[j]));
+        while(i<j){
+            int sum = nums[fixed] + nums[i] + nums[j];
+            if(sum>0){
+                j--;
+            }else if(sum<0){
+                i++;
+            }else{
+                result.add(Arrays.asList(nums[fixed], nums[i], nums[j]));
                 i++;
                 j--;
+
+                while(i<j && nums[i] == nums[i-1]){
+                    i++;
+                }
+                while(i<j && nums[j] == nums[j+1]){
+                    j--;
+                }
             }
         }
     }
     public List<List<Integer>> threeSum(int[] nums) {
-        int n = nums.length;
-
-        if(n < 3){
-            return new ArrayList<>();
-        }
-
-        ans = new ArrayList<>();
-
         Arrays.sort(nums);
 
-        for(int i=0;i<n-2;i++){
-            if(i > 0 && nums[i] == nums[i-1]){
-                continue;
+        List<List<Integer>> ans = new ArrayList<>();
+        for(int f = 0;f<nums.length;f++){
+            if(nums[f]>0){
+                break;
             }
-
-            int n1 = nums[i];
-            int target = -(n1);
-
-            twoSum(nums, target, i+1, n-1);
+            if(f == 0 || nums[f] != nums[f-1]){
+                twoSumHelper(f, nums, ans);
+            }
         }
-
         return ans;
     }
 }
