@@ -8,18 +8,19 @@ class Solution {
         int right = n-1;
 
         while(left < right){
-            if(height[left] < height[right]){
-                if(height[left] >= leftMax){
+            if(height[left] < height[right]) {
+                if (height[left] >= leftMax) {
                     leftMax = height[left];
-                }else{
+                } else {
                     water += leftMax - height[left];
                 }
                 left++;
-            }else{ //height[left] >= height[right]
+            }else{
                 if(height[right] >= rightMax){
                     rightMax = height[right];
-                }else{
-                    water += rightMax - height[right]; 
+                }
+                else{
+                    water += rightMax - height[right];
                 }
                 right--;
             }
