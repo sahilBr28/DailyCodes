@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/sahilBr28/DailyCodes/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/sahilBr28/DailyCodes/tree/main/0231-power-of-two/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/sahilBr28/DailyCodes/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0338-counting-bits](https://github.com/sahilBr28/DailyCodes/tree/main/0338-counting-bits/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahilBr28/DailyCodes/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/sahilBr28/DailyCodes/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0213-house-robber-ii/) | Medium |
+| [0338-counting-bits](https://github.com/sahilBr28/DailyCodes/tree/main/0338-counting-bits/) | Easy |
 | [0509-fibonacci-number](https://github.com/sahilBr28/DailyCodes/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/sahilBr28/DailyCodes/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/sahilBr28/DailyCodes/tree/main/0907-sum-of-subarray-minimums/) | Medium |
