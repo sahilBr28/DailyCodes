@@ -7,16 +7,21 @@ class Solution {
         int[] nge = new int[m];
 
         for(int i=m-1;i>=0;i--){
-            while(st.size()>0 && nums2[i]>=st.peek()) st.pop();
-            if(st.size()==0) nge[i] = -1;
-            else nge[i] = st.peek();
+            while(!st.isEmpty() && st.peek() <= nums2[i]){
+                st.pop();
+            }
+            if(st.isEmpty()){
+                nge[i] = -1;
+            }else{
+                nge[i] = st.peek();
+            }
             st.push(nums2[i]);
         }
 
         int[] ans = new int[n];
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(nums1[i]==nums2[j]){
+                if(nums1[i] == nums2[j]){
                     ans[i] = nge[j];
                 }
             }
