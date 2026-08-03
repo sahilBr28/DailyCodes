@@ -15,7 +15,7 @@ class Solution {
 
         for(int i=0;i<n;i++){
             for(int j=i;j<n;j++){
-                if((solution(s, i, j))== true){
+                if(solution(s, i, j) == true){
                     if(j-i+1 > maxLen){
                         maxLen = j-i+1;
                         startPoint = i;
