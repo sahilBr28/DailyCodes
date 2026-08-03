@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sahilBr28/DailyCodes/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/sahilBr28/DailyCodes/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/sahilBr28/DailyCodes/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/sahilBr28/DailyCodes/tree/main/0055-jump-game/) | Medium |
 | [0064-minimum-path-sum](https://github.com/sahilBr28/DailyCodes/tree/main/0064-minimum-path-sum/) | Medium |
 | [0075-sort-colors](https://github.com/sahilBr28/DailyCodes/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/sahilBr28/DailyCodes/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/sahilBr28/DailyCodes/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/sahilBr28/DailyCodes/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/sahilBr28/DailyCodes/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/sahilBr28/DailyCodes/tree/main/0064-minimum-path-sum/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahilBr28/DailyCodes/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sahilBr28/DailyCodes/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/sahilBr28/DailyCodes/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/sahilBr28/DailyCodes/tree/main/0455-assign-cookies/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/sahilBr28/DailyCodes/tree/main/1903-largest-odd-number-in-string/) | Easy |
