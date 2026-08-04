@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sahilBr28/DailyCodes/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/sahilBr28/DailyCodes/tree/main/0148-sort-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/sahilBr28/DailyCodes/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sahilBr28/DailyCodes/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/sahilBr28/DailyCodes/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/sahilBr28/DailyCodes/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/sahilBr28/DailyCodes/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/sahilBr28/DailyCodes/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahilBr28/DailyCodes/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/sahilBr28/DailyCodes/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/sahilBr28/DailyCodes/tree/main/0283-move-zeroes/) | Easy |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/sahilBr28/DailyCodes/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sahilBr28/DailyCodes/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/sahilBr28/DailyCodes/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/sahilBr28/DailyCodes/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/sahilBr28/DailyCodes/tree/main/0205-isomorphic-strings/) | Easy |
 | [0229-majority-element-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0229-majority-element-ii/) | Medium |
