@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sahilBr28/DailyCodes/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/sahilBr28/DailyCodes/tree/main/0062-unique-paths/) | Medium |
 | [0189-rotate-array](https://github.com/sahilBr28/DailyCodes/tree/main/0189-rotate-array/) | Medium |
+| [0204-count-primes](https://github.com/sahilBr28/DailyCodes/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/sahilBr28/DailyCodes/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/sahilBr28/DailyCodes/tree/main/0258-add-digits/) | Easy |
 | [0292-nim-game](https://github.com/sahilBr28/DailyCodes/tree/main/0292-nim-game/) | Easy |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sahilBr28/DailyCodes/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/sahilBr28/DailyCodes/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/sahilBr28/DailyCodes/tree/main/0198-house-robber/) | Medium |
+| [0204-count-primes](https://github.com/sahilBr28/DailyCodes/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sahilBr28/DailyCodes/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/sahilBr28/DailyCodes/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilBr28/DailyCodes/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/sahilBr28/DailyCodes/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/sahilBr28/DailyCodes/tree/main/0258-add-digits/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sahilBr28/DailyCodes/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Binary Search
@@ -587,4 +590,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/sahilBr28/DailyCodes/tree/main/0239-sliding-window-maximum/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/sahilBr28/DailyCodes/tree/main/0204-count-primes/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/sahilBr28/DailyCodes/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/sahilBr28/DailyCodes/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/sahilBr28/DailyCodes/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
