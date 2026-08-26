@@ -6,7 +6,7 @@ class Solution {
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(i==0 && j==0){
-                    grid[i][j] = grid[i][j];
+                    continue;
                 }
                 else if(i==0){
                     grid[i][j] += grid[i][j-1];
