@@ -1,25 +1,15 @@
 class Solution {
-    static int sum;
-    public int ways(int idx, int[] arr, int res, int target, int[][] dp){
+    //Recursive Code
+    public int ways(int idx, int[] arr, int target){
         if(idx==arr.length){
-            if(res==target) return 1;
+            if(target==0) return 1;
             else return 0;
         }
-        if(dp[idx][res+sum] != -1) return dp[idx][res+sum];
-        int add = ways(idx+1,arr,res+arr[idx],target,dp);
-        int sub = ways(idx+1,arr,res-arr[idx],target,dp);
-        return dp[idx][res+sum]=add+sub;
+        int add = ways(idx+1,arr,target-arr[idx]);
+        int sub = ways(idx+1,arr,target+arr[idx]);
+        return add+sub;
     }
-    public int findTargetSumWays(int[] arr, int target) {
-        sum = 0;
-        int n = arr.length;
-        for(int ele:arr) sum+=ele;
-        int[][] dp = new int[n][2*sum+1];
-        for(int i=0;i<dp.length;i++){
-            for(int j=0;j<dp[0].length;j++){
-                dp[i][j] = -1;
-            }
-        }
-        return ways(0,arr,0,target,dp);
+    public int findTargetSumWays(int[] nums, int target) {
+        return ways(0,nums,target);
     }
 }
