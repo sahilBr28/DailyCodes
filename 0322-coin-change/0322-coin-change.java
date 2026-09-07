@@ -1,24 +1,18 @@
 class Solution {
-    //Memoization Method
-    public long coinWay(int idx, int[] coins, int amount, long[][] dp){
-        if(idx==coins.length){
-            if(amount==0) return 0;
-            else return Integer.MAX_VALUE;
-        }
-        if(dp[idx][amount] != -1) return dp[idx][amount];
-        long skip = coinWay(idx+1,coins,amount,dp);
-        if(amount-coins[idx]<0) return dp[idx][amount] = skip;
-        long take = 1 + coinWay(idx,coins,amount-coins[idx],dp);
-        return dp[idx][amount] = Math.min(take,skip);
-    }
+    //Tabulation Method
     public int coinChange(int[] coins, int amount){
         long[][] dp = new long[coins.length][amount+1];
-        for(int i=0;i< dp.length;i++){
-            for(int j=0;j<dp[0].length;j++){
-                dp[i][j] = -1;
+        for(int i=0;i<coins.length;i++){
+            for(int j=0;j<amount+1;j++){
+                long skip = (i>0) ? dp[i-1][j] : ((j==0) ? 0 : Integer.MAX_VALUE);
+                if(j-coins[i]<0) dp[i][j] = skip;
+                else{
+                    long take = 1 + dp[i][j-coins[i]];
+                    dp[i][j] = Math.min(take, skip);
+                }
             }
         }
-        int ans = (int)coinWay(0,coins,amount,dp);
+        int ans = (int) dp[coins.length-1][amount];
         if(ans==Integer.MAX_VALUE) return -1;
         return ans;
     }
